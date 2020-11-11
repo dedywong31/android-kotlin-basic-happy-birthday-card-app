@@ -1,1 +1,1 @@
-"Basic Happy Birthday Card Android App with Kotlin" 
+Basic Happy Birthday Card Android App with Kotlin
